@@ -19,7 +19,7 @@ const Result = () => {
                         <Arrow height={20}/>
                         <p style={{margin: 0, color: 'white'}}>Вернуться на главную</p>
                     </Link>
-                    <a className={"link download_link"} href={'https://drive.google.com/uc?export=download&id=1kUZjaSt6OUkXkAFEpxkaMGDNo9qqo7p_'} target={'_blank'} rel={'noreferrer'}>
+                    <a className={"link download_link"} href={'https://google.com'} target={'_blank'} rel={'noreferrer'}>
                         <Download height={20}/>
                         <p style={{margin: 0, color: 'black'}}>Скачать результат</p>
                     </a>
